@@ -1,6 +1,4 @@
 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 <h2> Hey there! I'm Mohamed.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
